@@ -1,0 +1,23 @@
+{
+"product":
+[{"id":1,"name":"Indian leopard","category":"Puce"},
+{"id":2,"name":"Hawk, ferruginous","category":"Teal"},
+{"id":3,"name":"Mongoose, javan gold-spotted","category":"Purple"},
+{"id":4,"name":"Steller sea lion","category":"Aquamarine"},
+{"id":5,"name":"Grey fox","category":"Mauv"},
+{"id":6,"name":"Zebra, common","category":"Puce"},
+{"id":7,"name":"Porcupine, north american","category":"Turquoise"},
+{"id":8,"name":"Goose, cape barren","category":"Goldenrod"},
+{"id":9,"name":"Rabbit, eastern cottontail","category":"Red"},
+{"id":10,"name":"Tiger","category":"Violet"},
+{"id":11,"name":"Kangaroo, red","category":"Crimson"},
+{"id":12,"name":"Snake (unidentified)","category":"Pink"},
+{"id":13,"name":"Red-winged hawk (unidentified)","category":"Maroon"},
+{"id":14,"name":"Godwit, hudsonian","category":"Teal"},
+{"id":15,"name":"Springbuck","category":"Puce"},
+{"id":16,"name":"Sloth, pale-throated three-toed","category":"Khaki"},
+{"id":17,"name":"Square-lipped rhinoceros","category":"Green"},
+{"id":18,"name":"Arboral spiny rat","category":"Goldenrod"},
+{"id":19,"name":"Red phalarope","category":"Goldenrod"},
+{"id":20,"name":"Macaque, rhesus","category":"Mauv"}]
+}
